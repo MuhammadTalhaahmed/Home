@@ -8,6 +8,19 @@
             background-size: cover;
             background-repeat: no-repeat;
         }
+        main {
+            max-width: 950px;
+            margin: 0 auto;
+            padding: 2rem;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
     </style>
     
 
