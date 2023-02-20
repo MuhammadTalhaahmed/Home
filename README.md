@@ -8,6 +8,12 @@
             background-size: cover;
             background-repeat: no-repeat;
         }
+        @media screen and (max-width: 600px) {
+  body {
+    background-size: contain;
+    background-position: center;
+  }
+}
         main {
             max-width: 950px;
             margin: 0 auto;
