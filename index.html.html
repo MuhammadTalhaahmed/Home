@@ -28,8 +28,8 @@
     <style>
         .button {
             position: relative;
-            top: 300px;
-            left: 485px;
+            top: 230px;
+            left: 380px;
             width: 200px;
             height: 50px;
             background-color: lightblue;
