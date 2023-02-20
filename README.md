@@ -13,9 +13,9 @@
      
        
         main {
-            max-width: 950px;
+            max-width: 450px;
             margin: 0 auto;
-            padding: 2rem;
+            padding: 4rem;
             display: flex;
             flex-wrap: wrap;
             justify-content: space-between;
