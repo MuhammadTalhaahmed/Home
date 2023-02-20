@@ -35,6 +35,6 @@
         }
     </style>
     <p><br><br>Welcome to 𝓩𝓪𝓲𝓷𝓸'𝓼 𝓢𝓽𝓸𝓻𝓮 click on go to shop to visit our store</p>
-    <button class="button" onclick="window.location.href = 'https://muhammadtalhaahmed.github.io/zaino-s-store/.html'">Go to Shop</button>
+    <button class="button" onclick="window.location.href = 'https://muhammadtalhaahmed.github.io/zaino-s-store/'">Go to Shop</button>
 </body>
 </html>
