@@ -27,12 +27,12 @@
     </style>
     <style>
         .button {
-            position: absolute;
+            position: relative;
             top: 300px;
             left: 485px;
             width: 200px;
             height: 50px;
-            background-color: red;
+            background-color: lightblue;
             color: white;
         }
     </style>
