@@ -7,11 +7,15 @@
         body {
             background-image: url('https://images.pexels.com/photos/1323550/pexels-photo-1323550.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1.jpg');
             background-size: cover;
-            background-repeat: no-repeat;
-            
-         
+            background-repeat: no-repeat; 
         }
-      
+      @media screen and (max-width: 600px) {
+    body {
+        background-image: url("https://images.pexels.com/photos/1323550/pexels-photo-1323550.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+}
        
         main {
             max-width: 950px;
