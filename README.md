@@ -43,8 +43,8 @@
     <style>
         .button {
             position: relative;
-            top: 230px;
-            left: 380px;
+            top: 50px;
+            left: 300px;
             width: 200px;
             height: 50px;
             background-color: lightblue;
