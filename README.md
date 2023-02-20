@@ -36,7 +36,7 @@
             color: white;
         }
     </style>
-    <h1>\n\n</h1>
+    <br>
     <button class="button" onclick="window.location.href = 'nextpage.html'">Go to Shop</button>
 </body>
 </html>
