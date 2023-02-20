@@ -9,8 +9,7 @@
             background-size: cover;
             background-repeat: no-repeat;
             background-repeat: no-repeat;
-            background-size: contain;
-            background-position: center;
+         
         }
       }
        
