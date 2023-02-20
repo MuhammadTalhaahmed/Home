@@ -15,7 +15,7 @@
 
 </head>
 <body>
-    <h1>𝓩𝓪𝓲𝓷𝓸'𝓼 𝓢𝓽𝓸𝓻𝓮<br></h1>
+    <h1>𝓩𝓪𝓲𝓷𝓸'𝓼 𝓢𝓽𝓸𝓻𝓮</h1>
     <style>
         h1 {
             color: royalblue;
@@ -28,15 +28,15 @@
     <style>
         .button {
             position: absolute;
-            top: 200px;
-            left: 385px;
+            top: 300px;
+            left: 485px;
             width: 200px;
             height: 50px;
-            background-color: lightblue;
+            background-color: red;
             color: white;
         }
     </style>
-    <br>
+    
     <button class="button" onclick="window.location.href = 'nextpage.html'">Go to Shop</button>
 </body>
 </html>
