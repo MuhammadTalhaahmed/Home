@@ -38,7 +38,8 @@
             font-family: Arial, sans-serif;
         }
     </style>
-    
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6110467688747925"
+     crossorigin="anonymous"></script>
 
 </head>
 <body>
