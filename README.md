@@ -1,6 +1,10 @@
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6110467688747925"
+     crossorigin="anonymous"></script>
+
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-H2R4B79ML7"></script>
 <script>
@@ -38,8 +42,6 @@
             font-family: Arial, sans-serif;
         }
     </style>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6110467688747925"
-     crossorigin="anonymous"></script>
 
 </head>
 <body>
