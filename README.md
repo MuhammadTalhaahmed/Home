@@ -84,7 +84,7 @@
         }
     </style>
     <p><br><br><br>Welcome to 𝓩𝓪𝓲𝓷𝓸'𝓼 𝓢𝓽𝓸𝓻𝓮 click on go to shop to visit our store</p>
-    <a href="https://www.instagram.com/muhammad_taha33/"><i class="fa fa-instagram"></i> Follow us on Instagram</a>
+    <a href="https://www.instagram.com/muhammad_taha33/"><i class="fa fa-instagram"></i>Muhammad taha saifi<img src="https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png" alt="Instagram Logo"></a>
 <button class="button" onclick="window.location.href = 'https://muhammadtalhaahmed.github.io/zaino-s-store/'">Go to Shop</button>
 
 </body>
