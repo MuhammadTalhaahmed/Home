@@ -75,7 +75,7 @@
     <style>
         .button {
             position: relative;
-            top: 40px;
+            top: 30px;
             left: 280px;
             width: 200px;
             height: 50px;
