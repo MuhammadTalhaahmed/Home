@@ -75,7 +75,7 @@
     <style>
         .button {
             position: absolute;
-            top: 275px;
+            top: 270px;
             left: 120px;
             width: 200px;
             height: 50px;
@@ -85,8 +85,8 @@
        
 
     </style>
-    <p><br><br><br>Welcome to 𝓩𝓪𝓲𝓷𝓸'𝓼 𝓢𝓽𝓸𝓻𝓮 click on go to shop to visit our store</p>
-     <br>
+    <p><br><br>Welcome to 𝓩𝓪𝓲𝓷𝓸'𝓼 𝓢𝓽𝓸𝓻𝓮 click on go to shop to visit our store</p>
+     <br><br>
 <a href="https://www.instagram.com/muhammad_taha33/" target="_blank"><img src="instalogo.jpeg" style="width:24px;height:26px;"> <i class="fa fa-instagram"></i>Muhammad taha saifi</a>
 <button class="button" onclick="window.location.href = 'https://muhammadtalhaahmed.github.io/zaino-s-store/'">Go to Shop</button>
 
