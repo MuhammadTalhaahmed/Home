@@ -26,9 +26,9 @@
             background-repeat: no-repeat;
             
         }
-     
+     </style>
        
-        
+     <style>   
         body {
             margin: 0;
             padding: 0;
@@ -62,7 +62,9 @@
 
 </head>
 <body>
+    <header>
     <h1>𝓩𝓪𝓲𝓷𝓸'𝓼 𝓢𝓽𝓸𝓻𝓮</h1>
+    </header>
     <style>
         h1 {
             color: royalblue;
