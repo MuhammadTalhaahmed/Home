@@ -56,12 +56,71 @@
             }
 
 
+     header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: #333;
+  color: #fff;
+}
+
+.logo img {
+  width: 100px;
+  height: auto;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+}
+
+nav ul li {
+  margin: 0 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 5px 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+nav ul li a:hover {
+  background-color: #fff;
+  color: #333;
+}
+
+
+
+
+
 
 
     </style>
 
 </head>
 <body>
+
+<header>
+  <div class="logo">
+    <img src="logo.png" alt="Logo">
+  </div>
+  <nav>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Services</a></li>
+      <li><a href="#">Portfolio</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+
+
     
     <h1>𝓩𝓪𝓲𝓷𝓸'𝓼 𝓢𝓽𝓸𝓻𝓮</h1>
     
