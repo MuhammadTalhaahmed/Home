@@ -87,20 +87,13 @@
                 height: 30px;
                 object-fit: cover;
             }
-      .insta-link {
-    margin: 0;
-    padding: 0;
-}
 
     </style>
     <p><br><br><br>Welcome to 𝓩𝓪𝓲𝓷𝓸'𝓼 𝓢𝓽𝓸𝓻𝓮 click on go to shop to visit our store</p>
     <div class="instalogo">
     <img src="product1.jpg">
-    </div> <p>Follow us on insta:</p> 
-    <p class="insta-link">
+    </div> <p>Follow us on insta:</p>
 <a href="https://www.instagram.com/muhammad_taha33/"><i class="fa fa-instagram"></i>Muhammad taha saifi</a>
-    </p>
-
 <button class="button" onclick="window.location.href = 'https://muhammadtalhaahmed.github.io/zaino-s-store/'">Go to Shop</button>
 
 </body>
