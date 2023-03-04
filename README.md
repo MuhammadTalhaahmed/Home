@@ -1,4 +1,4 @@
-<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<html>
 <head>
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6110467688747925"
