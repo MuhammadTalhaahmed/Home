@@ -76,7 +76,7 @@
         .button {
             position: relative;
             top: 30px;
-            left: 210px;
+            left: 120px;
             width: 200px;
             height: 50px;
             background-color: lightblue;
