@@ -16,26 +16,19 @@
 </script>
 
 
-    <meta charset="utf-8" />
+    
     <title>Zaino's Store</title>
     <style>
     
         body {
             background-image: url('https://images.pexels.com/photos/1323550/pexels-photo-1323550.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1.jpg');
             background-size: cover;
-            background-repeat: no-repeat;
+            
             
         }
      
        
-        main {
-            max-width: 450px;
-            margin: 0 auto;
-            padding: 4rem;
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-between;
-        }
+        
         body {
             margin: 0;
             padding: 0;
