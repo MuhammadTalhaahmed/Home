@@ -62,9 +62,9 @@
 
 </head>
 <body>
-    <header>
+    
     <h1>𝓩𝓪𝓲𝓷𝓸'𝓼 𝓢𝓽𝓸𝓻𝓮</h1>
-    </header>
+    
     <style>
         h1 {
             color: royalblue;
