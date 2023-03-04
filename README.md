@@ -34,6 +34,30 @@
             padding: 0;
             font-family: Arial, sans-serif;
         }
+       header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+        }
+       .close:hover,
+        .close {
+            color: #aaaaaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+        }
+
+
+            .close:focus {
+                color: #000;
+                text-decoration: none;
+                cursor: pointer;
+            }
+
+
+
+
     </style>
 
 </head>
