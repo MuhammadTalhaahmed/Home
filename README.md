@@ -89,6 +89,7 @@
             }
       .insta-link {
     margin: 0;
+    padding: 0;
 }
 
     </style>
