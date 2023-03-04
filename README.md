@@ -93,7 +93,7 @@
     <div class="instalogo">
     <img src="product1.jpg">
     </div> 
-<a href="https://www.instagram.com/muhammad_taha33/"><i class="fa fa-instagram"></i>Muhammad taha saifi</a>
+<a href="https://www.instagram.com/muhammad_taha33/" target="_blank"><img src="product1.jpg" alt="Instagram" style="width:25px;height:25px;"> <i class="fa fa-instagram"></i>Muhammad taha saifi</a>
 <button class="button" onclick="window.location.href = 'https://muhammadtalhaahmed.github.io/zaino-s-store/'">Go to Shop</button>
 
 </body>
