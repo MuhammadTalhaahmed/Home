@@ -1,10 +1,6 @@
 <html>
 <head>
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6110467688747925"
-     crossorigin="anonymous"></script>
-
-
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-H2R4B79ML7"></script>
 <script>
@@ -15,16 +11,14 @@
   gtag('config', 'G-H2R4B79ML7');
 </script>
 
-
-    
+   
     <title>Zaino's Store</title>
     <style>
     
         body {
             background-image: url('Background.png');
             background-size: cover;
-            
-            
+                        
         }
      </style>
        
@@ -47,7 +41,6 @@
             font-size: 28px;
             font-weight: bold;
         }
-
 
             .close:focus {
                 color: #000;
@@ -108,7 +101,7 @@
      
 <header>
 <a href="https://www.instagram.com/muhammad_taha33/" target="_blank"><img src="instalogo.jpeg" style="width:24px;height:26px;"> <i class="fa fa-instagram"></i>Muhammad taha saifi</a>
-<button class="button" onclick="window.location.href = 'https://muhammadtalhaahmed.github.io/zaino-s-store/'">Go to Shop</button>
+<button class="button" onclick="window.location.href = 'https://zaino-s-store.000webhostapp.com/index.html">Go to Shop</button>
 </header>
 </body>
 </html>
