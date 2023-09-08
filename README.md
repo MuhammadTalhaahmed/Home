@@ -101,7 +101,7 @@
      
 <header>
 <a href="https://www.instagram.com/muhammad_taha33/" target="_blank"><img src="instalogo.jpeg" style="width:24px;height:26px;"> <i class="fa fa-instagram"></i>Muhammad taha saifi</a>
-<button class="button" onclick="window.location.href = 'https://zaino-s-store.000webhostapp.com/index.html">Go to Shop</button>
+<button class="button" onclick="window.location.href = 'https://zaino-s-store.000webhostapp.com/index.html'">Go to Shop</button>
 </header>
 </body>
 </html>
