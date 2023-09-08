@@ -101,8 +101,8 @@
      <br><br>
 
 <h2>Introducing Zaino Store: Your Perfect Destination for Stylish Ladies' Purses and Bags</h2>
-    <p2>Are you in search of the perfect accessory to elevate your style and enhance your daily look? Look no further than Zaino Store – your ultimate online shopping destination for exquisite ladies' purses and bags. We invite you to step into a world of fashion, where quality and style merge to bring you a shopping experience like no other.</p2>
-
+    <p2>Are you in search of the perfect accessory to elevate your style and enhance your daily look? Look no further than Zaino Store – your ultimate online shopping destination for exquisite ladies' purses and bags. We invite you to step into a world of fashion, where quality and style merge to bring you a shopping experience like no other.</p2> <br> <br> <br> <br>
+      
 
 
      
