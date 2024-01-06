@@ -95,7 +95,7 @@
 
 <h2>Introducing Zaino Store: Your Perfect Destination for Stylish Ladies' Purses and Bags</h2>
     <p2>Are you in search of the perfect accessory to elevate your style and enhance your daily look? Look no further than Zaino Store – your ultimate online shopping destination for exquisite ladies' purses and bags. We invite you to step into a world of fashion, where quality and style merge to bring you a shopping experience like no other.</p2> <br> <br> <br> <br>
-      
+  <div style='display:inline-block; border: 1px solid #CCC; border-radius: 6px; -webkit-border-radius: 6px; -o-border-radius: 6px; position: relative; overflow: hidden; width: 310px; height: 450px;'><iframe src='https://spotthestation.nasa.gov/widget/widget.cfm?country=Pakistan&region=None&city=Karachi&theme=2' width='310' height='450' frameborder='0' ></iframe></div>    
 
 
      
